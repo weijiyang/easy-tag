@@ -11,7 +11,8 @@
 {
   ...
   "scripts": {
-    "tag": "node node_modules/@weijiyang/easy-tag"
+    // "tag": "node node_modules/@weijiyang/easy-tag"
+    "tag": "tag"
   },
   ...
   "dependencies": {

@@ -3,7 +3,7 @@
     "author": "糖少",
     "url": "https://github.com/weijiyang/easy-tag",
     "email": "crawling_snail@163.com",
-    "version": "2.0.2",
+    "version": "2.1.0",
     "description": "If you use github or gitlab to work, this will allow you to reduce the time spent tagging to do more things.",
     "license": "MIT",
     "main": "index.js",
