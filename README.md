@@ -1,7 +1,5 @@
 # easy-tag
-> (๑•̀ㅂ•́)و✧ 让部署打tag更加简便
-
-> If you use github or gitlab to work, this will allow you to reduce the time spent tagging to do more things.
+> (๑•̀ㅂ•́)و✧  If you use github or gitlab to work, this will allow you to reduce the time spent tagging to do more things.
 
 ## 使用方式
 
@@ -13,7 +11,7 @@
 {
   ...
   "scripts": {
-    "tip": "node node_modules/@weijiyang/easy-tag"
+    "tag": "node node_modules/@weijiyang/easy-tag"
   },
   ...
   "dependencies": {
@@ -24,4 +22,4 @@
 
 ```
 
-> npm run tip 即可 (๑•̀ㅂ•́)و✧
+> npm run tag 即可 (๑•̀ㅂ•́)و✧
