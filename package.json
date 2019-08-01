@@ -1,15 +1,28 @@
 {
     "name": "@weijiyang/easy-tag",
-    "version": "1.0.1",
+    "author": "糖少",
+    "url": "https://github.com/weijiyang/easy-tag",
+    "email": "crawling_snail@163.com",
+    "version": "2.0.1",
     "description": "If you use github or gitlab to work, this will allow you to reduce the time spent tagging to do more things.",
     "license": "MIT",
-    "repository": "weijiyang/easy-tag",
     "main": "index.js",
+    "bin": {
+        "tag": "index.js"
+    },
     "keywords": [
         "easy",
         "tag",
         "npm",
         "package",
         "糖少"
-    ]
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/weijiyang/easy-tag.git"
+    },
+    "dependencies": {
+        "chalk": "^2.4.2",
+        "inquirer": "^6.5.0"
+    }
 }
