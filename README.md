@@ -3,7 +3,7 @@
 
 ## 使用方式
 
-> npm install --save -dev @weijiyang/easy-tag
+> npm install --save-dev @weijiyang/easy-tag
 
 > package.json scripts属性配置如下
 
